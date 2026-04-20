@@ -10,7 +10,6 @@
 [![PRs](https://img.shields.io/badge/PRs-Open-blue?style=for-the-badge)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
 [![License](https://img.shields.io/badge/License-Open%20Knowledge-orange?style=for-the-badge)](./LICENSE)
 </div>
----
 <br/>
 ## ✦ About
 > *"Read. In the name of your Lord who created."* — Quran 96:1
